@@ -50,3 +50,18 @@ ul li {
 .inline1 {
   font-weight: bold;
 }
+
+.titulos {
+  text-align: center;
+  width: 600px;
+  height: 200px;
+  margin: 40px;
+  padding: 20px;
+  border: 4px;
+  border-style: solid;
+  border-color: thistle;
+  background-color: lightskyblue;
+}
+
+.listas {
+}
